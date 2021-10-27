@@ -1,3 +1,5 @@
+// @ts-nocheck
+// Ignoring TS because this is a copy-pasted bootstrap
 import { useMemo } from 'react';
 import { ApolloClient, HttpLink, InMemoryCache } from '@apollo/client';
 import { concatPagination } from '@apollo/client/utilities';
