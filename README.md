@@ -131,4 +131,4 @@ Some options are:
 
 - Vercel/Heroku or any other SaaS
 - Dokku
-- Some VPN
+- Some VPS
