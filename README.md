@@ -85,6 +85,7 @@ could be done with those ideas in mind)
   of a provider.
 - `src/components/HomePage.test.tsx`: Shows how to test GraphQL with a mocked
   provider. As well as some basic form interactions.
+  
   I would consider this production-ready after adding tests for the contracts and
   more unit-test and e2e integrations, but I felt most of it was out of scope
   for the time I had for this.
